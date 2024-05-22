@@ -3,7 +3,7 @@
   
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hacker-dude" alt="hacker-dude" /></a> </p>  
   
-📫 Emai: **daviti.bekurishvili@gmail.com**  
+📫 Email: **daviti.bekurishvili@gmail.com**  
   
 <h3 align="left">Socials:</h3>  
 <p align="left">  
