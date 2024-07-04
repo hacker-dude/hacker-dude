@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David</h1>  
-<h3 align="center">A tech enthusiast with a background in Software Testing. I'm currently transitioning into Data Engineering, driven by my passion for data and problem-solving.</h3>  
+<h3 align="center">A tech enthusiast with a background in Software Testing.</h3>  
   
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hacker-dude&theme=radical" alt="hacker-dude" /></a> </p>  
   
